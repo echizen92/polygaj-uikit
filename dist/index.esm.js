@@ -2215,22 +2215,19 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/polygaj",
+                href: "https://t.me/xorFinance",
             },
-            {
-                label: "Spanish",
-                href: "https://t.me/polygajspanish",
-            },
+
             {
                 label: "Announcements",
-                href: "https://t.me/polygajANN",
+                href: "https://t.me/xorFinanceAnn",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/polygaj",
+        href: "https://twitter.com/xorFinance",
     },
 ];
 var MENU_HEIGHT = 64;
